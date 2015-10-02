@@ -1,0 +1,20 @@
+{
+    "name": "evhuta/adminavel",
+    "description": "Administration Panel for Laravel 5",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denis Evhuta",
+            "email": "megadesby@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Evhuta\\Adminavel\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/support": "~5"
+    }
+}
