@@ -1,6 +1,6 @@
 <?php
 
-namespace Evhuta\Adminavel;
+namespace Megadesby\Adminavel;
 
 use Illuminate\Support\ServiceProvider;
 

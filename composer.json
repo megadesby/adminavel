@@ -1,5 +1,5 @@
 {
-    "name": "evhuta/adminavel",
+    "name": "megadesby/adminavel",
     "description": "Administration Panel for Laravel 5",
     "license": "MIT",
     "authors": [
@@ -10,10 +10,11 @@
     ],
     "autoload": {
         "psr-4": {
-            "Evhuta\\Adminavel\\": "src/"
+            "Megadesby\\Adminavel\\": "src/"
         }
     },
     "require": {
         "illuminate/support": "~5"
-    }
+    },
+    "minimum-stability": "stable"
 }
